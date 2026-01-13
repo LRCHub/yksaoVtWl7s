@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Overdose",
+  "base_artist": "natori",
+  "createdAt": "2026-01-13T15:46:29.687616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overdose (feat. Oter & Herreløse)",
+      "artist": "Svartepetter",
+      "has_synced": false,
+      "path": "select/01_Overdose_(feat._Oter_&_Herreløse)_Svartepetter.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Overdose",
+      "artist": "Svartepetter",
+      "has_synced": false,
+      "path": "select/02_Overdose_Svartepetter.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Overdose",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/03_Overdose_Nav.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Overdose",
+      "artist": "Tomcraft",
+      "has_synced": true,
+      "path": "select/04_Overdose_Tomcraft.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Overdose",
+      "artist": "Alec Empire",
+      "has_synced": true,
+      "path": "select/05_Overdose_Alec_Empire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Overdose",
+      "artist": "Black Milk",
+      "has_synced": true,
+      "path": "select/06_Overdose_Black_Milk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Teenage Overdose",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/07_Teenage_Overdose_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Teenage Overdose (Album Version)",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/08_Teenage_Overdose_(Album_Version)_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shiawase No Kajo Sesshu (Happy Overdose)",
+      "artist": "EthelWulf & Bones",
+      "has_synced": false,
+      "path": "select/09_Shiawase_No_Kajo_Sesshu_(Happy_Overdose)_EthelWulf_&_Bones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Overdose",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/10_Overdose_Future.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nymphetamine Overdose",
+      "artist": "Cradle of Filth",
+      "has_synced": false,
+      "path": "select/11_Nymphetamine_Overdose_Cradle_of_Filth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Accidental Overdose",
+      "artist": "Gang Green",
+      "has_synced": false,
+      "path": "select/12_Accidental_Overdose_Gang_Green.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Overdose",
+      "artist": "Skinny Puppy",
+      "has_synced": true,
+      "path": "select/13_Overdose_Skinny_Puppy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Overdose",
+      "artist": "Exodus",
+      "has_synced": true,
+      "path": "select/14_Overdose_Exodus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Overdose",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_Overdose_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Overdose",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_02_Overdose_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Overdose",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_03_Overdose_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Overdose",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_04_Overdose_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Overdose",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_05_Overdose_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Overdose",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_06_Overdose_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Overdose",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_07_Overdose_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Overdose",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_08_Overdose_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Overdose",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_09_Overdose_なとり.txt"
+    }
+  ]
+}
